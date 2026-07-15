@@ -1,0 +1,22 @@
+{
+  "issue": {
+    "key": "TJ-30",
+    "summary": "1. Automatic failover2. No order loss3. No manual intervention",
+    "description": "System should recover from DB failure",
+    "labels": [
+      "resilience"
+    ],
+    "components": [],
+    "priority": "High",
+    "status": "Backlog",
+    "assignee": null,
+    "reporter": "ramya ",
+    "issue_type": "Story",
+    "epic": null,
+    "custom_fields": {
+      "Rank": "0|i000hb:"
+    }
+  },
+  "attachments": [],
+  "comments": []
+}
