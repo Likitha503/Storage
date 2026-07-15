@@ -1,0 +1,22 @@
+{
+  "issue": {
+    "key": "TJ-31",
+    "summary": "1. Correct template used2. Sent on order, cancel, refund3. Retry on failure4. Logged",
+    "description": "System should send email notificationsemail notifications received",
+    "labels": [
+      "notifications"
+    ],
+    "components": [],
+    "priority": "Medium",
+    "status": "Backlog",
+    "assignee": null,
+    "reporter": "ramya ",
+    "issue_type": "Story",
+    "epic": null,
+    "custom_fields": {
+      "Rank": "0|i000hj:"
+    }
+  },
+  "attachments": [],
+  "comments": []
+}
