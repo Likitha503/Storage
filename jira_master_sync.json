@@ -1,28 +1,6 @@
 [
   {
     "issue": {
-      "key": "TJ-23",
-      "summary": "1. Refund API called2. Gateway confirms3. Status updated4. User notified",
-      "description": "Refund should go to original paymentrefunded",
-      "labels": [
-        "refund"
-      ],
-      "components": [],
-      "priority": "High",
-      "status": "Backlog",
-      "assignee": null,
-      "reporter": "ramya ",
-      "issue_type": "Story",
-      "epic": null,
-      "custom_fields": {
-        "Rank": "0|i000fr:"
-      }
-    },
-    "attachments": [],
-    "comments": []
-  },
-  {
-    "issue": {
       "key": "TJ-25",
       "summary": "1. Mandatory fields validated2. Product visible in catalog3. Price and stock saved4. Images uploaded",
       "description": "Admin should add new product",
@@ -60,6 +38,28 @@
       "epic": null,
       "custom_fields": {
         "Rank": "0|i000fb:"
+      }
+    },
+    "attachments": [],
+    "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-23",
+      "summary": "1. Refund API called2. Gateway confirms3. Status updated4. User notified",
+      "description": "2.Refund should go to original payment1.refunded to the customer",
+      "labels": [
+        "refund"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000fr:"
       }
     },
     "attachments": [],
