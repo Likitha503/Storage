@@ -1,0 +1,24 @@
+[
+  {
+    "issue": {
+      "key": "TJ-23",
+      "summary": "1. Refund API called2. Gateway confirms3. Status updated4. User notified",
+      "description": "Refund should go to original paymentrefunded",
+      "labels": [
+        "refund"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000fr:"
+      }
+    },
+    "attachments": [],
+    "comments": []
+  }
+]
