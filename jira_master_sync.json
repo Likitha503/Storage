@@ -567,28 +567,6 @@
   },
   {
     "issue": {
-      "key": "TJ-3",
-      "summary": "1. OAuth consent shown2. New user auto-created3. Existing user mapped4. Token expiry handled5. Logout revokes token",
-      "description": "User should login using Google OAuthuser login",
-      "labels": [
-        "auth"
-      ],
-      "components": [],
-      "priority": "Medium",
-      "status": "Backlog",
-      "assignee": null,
-      "reporter": "ramya ",
-      "issue_type": "Story",
-      "epic": null,
-      "custom_fields": {
-        "Rank": "0|i000bb:"
-      }
-    },
-    "attachments": [],
-    "comments": []
-  },
-  {
-    "issue": {
       "key": "TJ-2",
       "summary": "1. Valid credentials login2. Invalid credentials show error3. Account locks after N failures4. Captcha appears after repeated failures5. Session created securely",
       "description": "User should login using email and passwordemail and password incorrect",
@@ -604,6 +582,28 @@
       "epic": null,
       "custom_fields": {
         "Rank": "0|i000b3:"
+      }
+    },
+    "attachments": [],
+    "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-3",
+      "summary": "1. OAuth consent shown2. New user auto-created3. Existing user mapped4. Token expiry handled5. Logout revokes token",
+      "description": "User should login using Google OAuthuser login",
+      "labels": [
+        "auth"
+      ],
+      "components": [],
+      "priority": "Medium",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000bb:"
       }
     },
     "attachments": [],
