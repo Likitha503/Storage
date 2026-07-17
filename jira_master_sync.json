@@ -652,5 +652,27 @@
     },
     "attachments": [],
     "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-27",
+      "summary": "1. Malicious payload rejected2. Logged in audit3. No DB corruption",
+      "description": "System should block SQL injectionSQL Blockedsql solved",
+      "labels": [
+        "security"
+      ],
+      "components": [],
+      "priority": "Medium",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000gn:"
+      }
+    },
+    "attachments": [],
+    "comments": []
   }
 ]
