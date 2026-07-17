@@ -1,60 +1,30 @@
 {
-
   "issue": {
-
     "key": "TJ-31_sample",
-
     "summary": "Email notification system for order events",
-
     "description": "Business Context: Customers should receive timely email notifications whenever an order is placed, cancelled, or refunded to keep them informed about the current status of their orders.\n\nFunctional Description: The system shall automatically trigger email notifications for order creation, cancellation, and refund events using the appropriate email templates. Failed email deliveries shall be retried and all notification events shall be logged for auditing and troubleshooting purposes.",
-
     "acceptance_criteria": [
-
       "The correct email template is selected based on the order event.",
-
       "An email notification is sent successfully for order creation, cancellation, and refund events.",
-
       "If email delivery fails, the system retries according to the configured retry policy.",
-
       "All notification attempts are recorded in the application logs.",
-
       "Users receive only one notification for each successful event.",
-
       "Failed notifications generate appropriate error logs."
-
     ],
-
     "labels": [
-
       "notifications"
-
     ],
-
     "components": [],
-
     "priority": "Medium",
-
     "status": "Backlog",
-
     "assignee": null,
-
     "reporter": "ramya",
-
     "issue_type": "Story",
-
     "epic": null,
-
     "custom_fields": {
-
       "Rank": "0|i000hj:"
-
     }
-
   },
-
   "attachments": [],
-
   "comments": []
-
 }
- 
