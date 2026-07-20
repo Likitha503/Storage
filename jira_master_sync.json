@@ -623,6 +623,28 @@
   },
   {
     "issue": {
+      "key": "TJ-2",
+      "summary": "1. Valid credentials login2. Invalid credentials show error3. Account locks after N failures4. Captcha appears after repeated failures5. Session created securely",
+      "description": "User should login using email and passwordemail and password incorrect",
+      "labels": [
+        "auth"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000b3:"
+      }
+    },
+    "attachments": [],
+    "comments": []
+  },
+  {
+    "issue": {
       "key": "TJ-1",
       "summary": "1. Valid email and strong password required2. Email must be unique3. Password policy enforced4. Verification email sent5. Account active only after verification6. Invalid inputs show error",
       "description": "User should be able to create account using email and passwordemail adnd password created",
@@ -652,27 +674,5 @@
         "body": "Hi , this is for testing"
       }
     ]
-  },
-  {
-    "issue": {
-      "key": "TJ-2",
-      "summary": "1. Valid credentials login2. Invalid credentials show error3. Account locks after N failures4. Captcha appears after repeated failures5. Session created securely",
-      "description": "User should login using email and passwordemail and password incorrect",
-      "labels": [
-        "auth"
-      ],
-      "components": [],
-      "priority": "High",
-      "status": "Backlog",
-      "assignee": null,
-      "reporter": "ramya ",
-      "issue_type": "Story",
-      "epic": null,
-      "custom_fields": {
-        "Rank": "0|i000b3:"
-      }
-    },
-    "attachments": [],
-    "comments": []
   }
 ]
