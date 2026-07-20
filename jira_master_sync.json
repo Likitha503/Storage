@@ -696,5 +696,27 @@
     },
     "attachments": [],
     "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-6",
+      "summary": "1. Pagination works2. Sorting works3. Filters work4. Out-of-stock marked",
+      "description": "User should browse products with pagination and filtersuser stories",
+      "labels": [
+        "catalog"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000bz:"
+      }
+    },
+    "attachments": [],
+    "comments": []
   }
 ]
