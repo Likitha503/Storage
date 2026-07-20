@@ -674,5 +674,27 @@
     },
     "attachments": [],
     "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-5",
+      "summary": "1. Old password required2. New password policy enforced3. Cannot reuse last passwords4. Logout from all devices",
+      "description": "User should change password from profilepassword changed today",
+      "labels": [
+        "auth"
+      ],
+      "components": [],
+      "priority": "Medium",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000br:"
+      }
+    },
+    "attachments": [],
+    "comments": []
   }
 ]
