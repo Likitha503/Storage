@@ -535,28 +535,6 @@
   },
   {
     "issue": {
-      "key": "TJ-3",
-      "summary": "1. OAuth consent shown2. New user auto-created3. Existing user mapped4. Token expiry handled5. Logout revokes token",
-      "description": "User should login using Google OAuthuser login",
-      "labels": [
-        "auth"
-      ],
-      "components": [],
-      "priority": "Medium",
-      "status": "Backlog",
-      "assignee": null,
-      "reporter": "ramya ",
-      "issue_type": "Story",
-      "epic": null,
-      "custom_fields": {
-        "Rank": "0|i000bb:"
-      }
-    },
-    "attachments": [],
-    "comments": []
-  },
-  {
-    "issue": {
       "key": "TJ-4",
       "summary": "1. Reset link sent2. Link expires after configured time3. New password follows policy4. Old password invalid",
       "description": "User should reset password using email linkedidted",
@@ -670,6 +648,28 @@
       "epic": null,
       "custom_fields": {
         "Rank": "0|i000b3:"
+      }
+    },
+    "attachments": [],
+    "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-3",
+      "summary": "1. OAuth consent shown2. New user auto-created3. Existing user mapped4. Token expiry handled5. Logout revokes token",
+      "description": "User should login using Google OAuthuser login",
+      "labels": [
+        "auth"
+      ],
+      "components": [],
+      "priority": "Medium",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000bb:"
       }
     },
     "attachments": [],
