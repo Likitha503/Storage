@@ -579,38 +579,6 @@
   },
   {
     "issue": {
-      "key": "TJ-1",
-      "summary": "1. Valid email and strong password required2. Email must be unique3. Password policy enforced4. Verification email sent5. Account active only after verification6. Invalid inputs show error",
-      "description": "User should be able to create account using email and passwordemail adnd password created",
-      "labels": [
-        "auth"
-      ],
-      "components": [],
-      "priority": "High",
-      "status": "Backlog",
-      "assignee": null,
-      "reporter": "ramya ",
-      "issue_type": "Story",
-      "epic": null,
-      "custom_fields": {
-        "Rank": "0|i000av:"
-      }
-    },
-    "attachments": [
-      {
-        "filename": "Sample_Text_Based_PDF.pdf",
-        "content": "Sample Requirement Document\n Project: Jira Attachment Reader\nRequirement ID: REQ-1001\nUser Story: As a user, I want to upload PDF attachments so that the system extracts readable text.\nAcceptance Criteria:\n1. PDF contains embedded selectable text.\n2. Text can be searched using Ctrl+F.\n3. PDF is generated from Word, not from a scanner.\n"
-      }
-    ],
-    "comments": [
-      {
-        "author": "ramya ",
-        "body": "Hi , this is for testing"
-      }
-    ]
-  },
-  {
-    "issue": {
       "key": "TJ-2",
       "summary": "1. Valid credentials login2. Invalid credentials show error3. Account locks after N failures4. Captcha appears after repeated failures5. Session created securely",
       "description": "User should login using email and passwordemail and password incorrect",
@@ -718,5 +686,37 @@
     },
     "attachments": [],
     "comments": []
+  },
+  {
+    "issue": {
+      "key": "TJ-1",
+      "summary": "1. Valid email and strong password required2. Email must be unique3. Password policy enforced4. Verification email sent5. Account active only after verification6. Invalid inputs show error",
+      "description": "User should be able to create account using email and passwordemail adnd password created",
+      "labels": [
+        "auth"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000av:"
+      }
+    },
+    "attachments": [
+      {
+        "filename": "Sample_Text_Based_PDF.pdf",
+        "content": "Sample Requirement Document\n Project: Jira Attachment Reader\nRequirement ID: REQ-1001\nUser Story: As a user, I want to upload PDF attachments so that the system extracts readable text.\nAcceptance Criteria:\n1. PDF contains embedded selectable text.\n2. Text can be searched using Ctrl+F.\n3. PDF is generated from Word, not from a scanner.\n"
+      }
+    ],
+    "comments": [
+      {
+        "author": "ramya ",
+        "body": "Hi , this is for testing"
+      }
+    ]
   }
 ]
