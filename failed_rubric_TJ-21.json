@@ -1,0 +1,35 @@
+[
+  {
+    "issue": {
+      "key": "TJ-21",
+      "summary": "1. Allowed before shipped2. Refund initiated3. Status updated4. Notification sent",
+      "description": "User should cancel order before shipping",
+      "labels": [
+        "order"
+      ],
+      "components": [],
+      "priority": "High",
+      "status": "Backlog",
+      "assignee": null,
+      "reporter": "ramya ",
+      "issue_type": "Story",
+      "epic": null,
+      "custom_fields": {
+        "Rank": "0|i000fb:"
+      }
+    },
+    "attachments": [],
+    "comments": [],
+    "rubric_evaluation": {
+      "total_score": 10,
+      "breakdown": {
+        "accuracy": 3,
+        "coverage": 2,
+        "hallucination_control": 2,
+        "metadata_accuracy": 2,
+        "corpus_readiness": 1
+      },
+      "status": "REJECTED"
+    }
+  }
+]
